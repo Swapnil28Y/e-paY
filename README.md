@@ -28,4 +28,4 @@ The objective of this project is to maintain the accounts like saving account, w
 
 
 
-# Thank you for reading
+# Thank you
