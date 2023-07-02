@@ -12,7 +12,6 @@ The objective of this project is to maintain the accounts like saving account, w
 • Accountant </br>
 • Customer </br>
 
-
 # Roles of Accountant are:-
 • Login using his/her username and password</br>
 • Adding new account for customer</br>
